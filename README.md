@@ -52,3 +52,23 @@ The dataset used in this project contains information on hotel bookings, includi
 ✅ **Customer Segments:** Determined the most valuable guests based on spending and booking patterns.  
 ✅ **Revenue Impact:** Evaluated the effect of no-shows and cancellations on overall revenue.  
 ✅ **Market Segments:** Compared direct bookings, online travel agencies (OTAs), and corporate reservations.
+### **🔍 Key Insights from Hotel Reservation Analysis**  
+
+1️⃣ **Booking Trends:**  
+   - **Peak Month:** October (highest reservations).  
+   - **Lowest Month:** January (least reservations).  
+
+2️⃣ **Cancellation Analysis:**  
+   - **Overall Cancellation Rate:** 29.57% of total bookings were canceled.  
+   - **Long Lead-Time Impact:** 35.56% of bookings with a lead time over 30 days were canceled.  
+
+3️⃣ **Market Segments:**  
+   - **Top Segment:** Online bookings (518 reservations).  
+
+4️⃣ **Room Preferences:**  
+   - **Most Booked Room Type:** Room Type 1 (534 bookings).  
+
+5️⃣ **Revenue Insights:**  
+   - **Average Room Price:** $104.60 per night.  
+   - **Weekend Stay Avg. Price:** $105.28 per night.  
+   - **Weekday Stay Avg. Price:** $105.26 per night.  
