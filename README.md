@@ -10,10 +10,15 @@ Inspired by the Data Analysis Dashboard, this project integrates SQL-based data 
 
 ### **Key Business Questions Addressed:**  
 ✔ What are the peak booking periods for the hotel?  
+
 ✔ What factors contribute to reservation cancellations?  
+
 ✔ Which customer segment generates the highest revenue?  
+
 ✔ How does lead time affect booking trends?  
+
 ✔ Which room types are in the highest demand?  
+
 ✔ How does the cancellation rate vary across different market segments?  
 
 ### **Project Goals:**  
